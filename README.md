@@ -6,7 +6,7 @@
 <br>
 
 ## For what I use that?
-The main goal of this repository is making a huge extensions wordlist to search with ffuf, gobuster, etc... to try finding files which may contain sensitive information or can help your on pentest.
+The main goal of this repository is making a huge extensions wordlist to search with ffuf, gobuster, etc... to try finding files which may contain sensitive information or can help you on your pentest time!
 
 <br>
 
