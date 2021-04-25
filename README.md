@@ -1,5 +1,5 @@
 # Extensions Wordlist
-> A extensions wordlist when trying to find files on targets. 
+> Improve your files search with wordlists!
 
 ## For what I use that?
 The main goal of this repository is making a huge wordlists of extensions to search with ffuf, gobuster etc
