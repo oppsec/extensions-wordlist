@@ -14,12 +14,12 @@ The main goal of this repository is making a huge extensions wordlist to search 
 
 ### General
 ```
-.bak,.sql,.zip,.xml,.old,.inc,.backup,.js,.json,.passwd,.perf,.profile,.rhosts,.sh_history,.ssh,.subversion,.bashrc,.cache,.bash_history,.log,.db
+.bak,.sql,.zip,.xml,.old,.inc,.backup,.js,.json,.passwd,.perf,.rhosts,.ssh,.subversion,,.cache,.log,.db
 ```
 
 ### ASP.NET/IIS
 ```
-.asp,.aspx,.cfg,.config,.zip,.xml,.svn,.svnignore,.web,.dll,.exe,.wasm,.wadl
+.asp,.aspx,.cfg,.config,.zip,.xml,.svn,.svnignore,.web,.dll,.exe,.wasm,.wadl,.axd
 ```
 
 ### Java
