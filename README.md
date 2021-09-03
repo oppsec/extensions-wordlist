@@ -14,7 +14,7 @@ The main goal of this repository is making a huge extensions wordlist to search 
 
 ### General
 ```
-.bak,.sql,.zip,.xml,.old,.inc,.backup,.js,.json,.passwd,.perf,.rhosts,.ssh,.subversion,,.cache,.log,.db
+.bak,.sql,.zip,.xml,.old,.inc,.backup,.js,.json,.passwd,.perf,.rhosts,.ssh,.cache,.log,.db
 ```
 
 ### ASP.NET/IIS
@@ -24,7 +24,7 @@ The main goal of this repository is making a huge extensions wordlist to search 
 
 ### Java
 ```
-.jsp,.jsf,.xhtml,.xml,.class,.java
+.jsp,.jsf,.xhtml,.xml,.class,.java,.jar,.seam,.faces,.shtml,.iface
 ```
 
 ### NodeJS
