@@ -14,17 +14,17 @@ The main goal of this repository is making a huge extensions wordlist to search 
 
 ### General
 ```
-.bak,.sql,.zip,.xml,.old,.inc,.backup,.js,.json,.passwd,.perf,.rhosts,.ssh,.cache,.log,.db
+.bak,.sql,.zip,.xml,.old,.inc,.backup,.js,.json,.passwd,.perf,.rhosts,.ssh,.cache,.log,.db,.sh
 ```
 
 ### ASP.NET/IIS
 ```
-.asp,.aspx,.cfg,.config,.zip,.xml,.svn,.svnignore,.web,.dll,.exe,.wasm,.wadl,.axd,.resx,.resouces,.wsdl,.xsd,.disco,.discomap,.config
+.asp,.aspx,.cfg,.config,.zip,.xml,.svn,.svnignore,.web,.dll,.exe,.wasm,.wadl,.axd,.resx,.resouces,.wsdl,.xsd,.disco,.discomap,.config,.htm,.pdb,.ashx
 ```
 
 ### Java
 ```
-.jsp,.jsf,.xhtml,.xml,.class,.java,.jar,.seam,.faces,.shtml,.iface
+.jsp,.jsf,.xhtml,.xml,.class,.java,.jar,.seam,.faces,.shtml,.ifaces
 ```
 
 ### NodeJS
