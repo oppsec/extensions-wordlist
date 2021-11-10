@@ -14,7 +14,7 @@ The main goal of this repository is making a huge extensions wordlist to search 
 
 ### General
 ```
-.bak,.sql,.zip,.xml,.old,.inc,.backup,.js,.json,.passwd,.perf,.rhosts,.ssh,.cache,.log,.db,.sh
+.bak,.sql,.zip,.xml,.old,.inc,.backup,.js,.json,.passwd,.conf,.log,.yml,.yaml
 ```
 
 ### ASP.NET/IIS
