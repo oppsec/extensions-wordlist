@@ -24,7 +24,7 @@ The main goal of this repository is making a huge extensions wordlist to search 
 
 ### Java
 ```
-.jsp,.jsf,.xhtml,.xml,.class,.java,.jar,.seam,.faces,.shtml,.ifaces,.do,.action
+.jsp,.jsf,.xhtml,.xml,.class,.java,.jar,.seam,.faces,.shtml,.ifaces,.do,.action,.jspf,.properties
 ```
 
 ### NodeJS
