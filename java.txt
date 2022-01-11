@@ -1,0 +1,15 @@
+.jsp
+.jsf
+.xhtml
+.xml
+.class
+.java
+.jar
+.seam
+.faces
+.shtml
+.ifaces
+.do
+.action
+.jspf
+.properties
