@@ -1,0 +1,7 @@
+.js
+.json
+.yaml
+.lock
+.yml
+.md
+.base.js
