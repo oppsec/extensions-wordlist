@@ -1,0 +1,17 @@
+.bak
+.sql
+.zip
+.xml
+.old
+.inc
+.js
+.json
+.conf
+.cfg
+.log
+.yml
+.yaml
+.txt
+.sql
+.rar
+.bak
