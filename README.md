@@ -6,12 +6,12 @@
 
 <br>
 
-## For what I use that?
+## For what I will use this?
 The main goal of this repository is making a huge extensions wordlist to use with tools like: ffuf, gobuster, etc... and try finding files which may contain sensitive information or can help you.
 
 <br>
 
-## Scenarios
+## Wordlists
 
 ### General
 ```
