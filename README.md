@@ -29,7 +29,7 @@ The main goal of this repository is making a huge extensions wordlist to search 
 
 ### NodeJS
 ```
-.js,.json,.yaml,.lock,.yml
+.js,.json,.yaml,.lock,.yml,.md,.base.js
 ```
 
 <br>
